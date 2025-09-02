@@ -1,2 +1,2 @@
-# sir-form
-Form handler 
+# SIR-Form
+SIngle Responsability Form handler
